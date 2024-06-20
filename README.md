@@ -1,16 +1,16 @@
-<h1 align="center">Raspiblitz Web - a responsive Web UI for the RaspiBlitz</h1>
+<h1 align="center">MY₿ONK Web Ui - a responsive Web UI for the MY₿ONK</h1>
 
-![Raspiblitz Dashboard](preview.png)
+![MY₿ONK Dashboard](preview.png)
 
 In collaboration with [Bitcoin Design](https://bitcoin.design/).
 
-Images of the WebUI can be found at [raspiblitz-web-progress](https://github.com/cstenglein/raspiblitz-web-progress)
+Demo deployment of this WebUI can be found at [mybonk-ui.vercel.app](https://mybonk-ui.vercel.app)
 
 Built with [React](https://reactjs.org/) & [Tailwind CSS](https://tailwindcss.com/).
 
 ## Translations
 
-If you want to bring the Raspiblitz WebUI to other languages, please help us translate it via [Weblate](https://hosted.weblate.org/projects/raspiblitz-web/translations/) :)
+If you want to bring the MY₿ONK WebUi to other languages, please help us translate it via [Weblate](https://hosted.weblate.org/projects/raspiblitz-web/translations/) :)
 
 Big thanks to our translators, which you can find in this [README](src/i18n/README.md).
 
@@ -49,8 +49,8 @@ yarn start
 
 For the backend, there currently exist three options:
 
-- Use an existing RaspiBlitz
-  - Easy to setup, but needs a RaspiBlitz
+- Use an existing MY₿ONK
+  - Easy to setup, but needs a MY₿ONK
 - Using the provided [Mock backend](#mock-backend)
   - Easy to setup, but limited data
 - Using [blitz_api](#blitz-api) with Polar
